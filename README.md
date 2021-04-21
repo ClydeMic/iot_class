@@ -1,2 +1,2 @@
-# iot_clas
+# iot_class
 Node-RED with InfluxDB and ArangoDB
